@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wamo",
+  "name": "What Are My Options?",
+  "description": "Provides lists for items in JEI that offer the same functionality",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ZaBi94"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [""]
+}
+]
